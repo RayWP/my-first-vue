@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App Raymond WP config"/>
+  <HelloWorld msg="Welcome to Your Vue.js App Raymond WP configLALA"/>
 </template>
 
 <script>
